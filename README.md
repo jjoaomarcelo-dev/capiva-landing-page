@@ -1,16 +1,17 @@
-# Capíva — Landing Page
+# Capíva - Landing Page
 
-Landing page do Capíva, um projeto pessoal que nasceu da ideia de organizar minha vida financeira em um aplicativo.
+Landing page de apresentação do Capíva, um projeto pessoal de organização financeira.
 
 ## Sobre
 
-Esta é a primeira etapa do projeto. Comecei pela landing page para praticar HTML, CSS e JavaScript antes de avançar para as funcionalidades financeiras.
+O Capíva está sendo desenvolvido aos poucos. Esta página apresenta a proposta e os projetos criados durante o desenvolvimento.
 
 ## Funcionalidades
 
 - troca entre tema claro e escuro;
 - layout adaptado para computadores, tablets e celulares;
-- navegação entre as seções da página.
+- navegação entre as seções da página;
+- acesso aos projetos relacionados ao Capíva.
 
 ## Tecnologias
 
@@ -20,7 +21,15 @@ Esta é a primeira etapa do projeto. Comecei pela landing page para praticar HTM
 
 ## Como executar
 
-Baixe os arquivos do projeto e abra o arquivo `index.html` no navegador.
+1. Clone ou baixe este repositório.
+2. Abra a pasta do projeto.
+3. Abra o arquivo `index.html` no navegador.
+
+Não é necessário instalar dependências.
+
+## Projeto relacionado
+
+- [Controle de Parcelas](https://github.com/jjoaomarcelo-dev/controle-de-parcelas)
 
 ## Status
 
