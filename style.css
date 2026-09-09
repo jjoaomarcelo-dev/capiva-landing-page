@@ -166,6 +166,64 @@ main {
   font-size: 0.9rem;
 }
 
+.modulos {
+  padding: 96px 0;
+  border-top: 1px solid var(--cor-borda);
+}
+
+.modulos h2 {
+  max-width: 720px;
+  margin: 0;
+  font-size: 2.4rem;
+  line-height: 1.2;
+}
+
+.modulo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+  margin-top: 48px;
+  padding: 32px;
+  background-color: var(--cor-superficie);
+  border: 1px solid var(--cor-borda);
+  border-radius: 8px;
+}
+
+.modulo-status {
+  color: var(--cor-destaque);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.modulo h3 {
+  margin: 12px 0 8px;
+  font-size: 1.3rem;
+}
+
+.modulo p {
+  max-width: 650px;
+  margin: 0;
+  color: var(--cor-texto-suave);
+}
+
+.modulo a {
+  flex-shrink: 0;
+  padding: 11px 16px;
+  color: var(--cor-destaque);
+  border: 1px solid var(--cor-destaque);
+  border-radius: 4px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.modulo a:hover {
+  color: var(--cor-fundo);
+  background-color: var(--cor-destaque);
+}
+
 .acoes-cabecalho {
   display: flex;
   align-items: center;
@@ -247,7 +305,8 @@ body.tema-claro {
     padding: 64px 0;
   }
 
-  .proposta h2 {
+  .proposta h2,
+  .modulos h2 {
     font-size: 2rem;
   }
 
@@ -258,6 +317,18 @@ body.tema-claro {
   }
 
   .etapa {
+    padding: 24px;
+  }
+
+  .modulos {
+    padding: 64px 0;
+  }
+
+  .modulo {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 24px;
+    margin-top: 36px;
     padding: 24px;
   }
 }
