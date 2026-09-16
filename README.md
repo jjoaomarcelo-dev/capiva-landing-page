@@ -29,7 +29,7 @@ Não é necessário instalar dependências.
 
 ## Projeto relacionado
 
-- [Controle de Parcelas](https://github.com/jjoaomarcelo-dev/installment-tracker)
+- [Controle de Parcelas](https://github.com/jjoaomarcelo-dev/capiva-installment-tracker)
 
 ## Status
 
