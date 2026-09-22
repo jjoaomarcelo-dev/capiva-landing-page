@@ -2,6 +2,10 @@
 
 Landing page de apresentação do Capíva, um projeto pessoal de organização financeira.
 
+## Demonstração
+
+[Acessar a página publicada](https://jjoaomarcelo-dev.github.io/capiva-landing-page/)
+
 ## Sobre
 
 O Capíva está sendo desenvolvido aos poucos. Esta página apresenta a proposta e os projetos criados durante o desenvolvimento.
