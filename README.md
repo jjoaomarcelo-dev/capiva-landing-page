@@ -8,7 +8,7 @@ Landing page de apresentação do Capíva, um projeto pessoal de organização f
 
 ## Sobre
 
-O Capíva está sendo desenvolvido aos poucos. Esta página apresenta a proposta e os projetos criados durante o desenvolvimento.
+Esta página apresenta a proposta do Capíva, um projeto pessoal de organização financeira, e dá acesso ao módulo de Controle de Parcelas.
 
 ## Funcionalidades
 
@@ -37,4 +37,4 @@ Não é necessário instalar dependências.
 
 ## Status
 
-Em desenvolvimento.
+O desenvolvimento de novas funcionalidades está temporariamente pausado. A página permanece publicada para demonstração.
